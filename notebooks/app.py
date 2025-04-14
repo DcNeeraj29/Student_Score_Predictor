@@ -9,7 +9,7 @@ st.write("Predicting a Student's final score based on their study habits and per
 
 # Input fields
 
-study_hours = st.slider("Study Hours", min_value = 0.1, max_value = 10.0, step= 0.5)
+study_hours = st.slider("Study Hours", min_value = 0.1, max_value = 10.0, step= 0.1)
 attendance = st.slider("Attendance (%)", min_value=1, max_value=100)
 previous_score = st.slider("Previous Score (%)", 0, 100, 80)
 participation = st.radio("Participation in class", [0,1], format_func = lambda x: "No" if x == 0 else "Yes")
