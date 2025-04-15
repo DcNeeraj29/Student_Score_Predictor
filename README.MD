@@ -1,6 +1,6 @@
 # 📊 Student Performance Analysis & Final Score Prediction
 
-This is a **micro-project** built using **Python, Data Science, and Machine Learning techniques** to analyze student performance and predict their final scores based on features such as study hours, attendance, previous scores, and participation.
+This project is built using **Python, Data Science, and Machine Learning techniques** to analyze student performance and predict their final scores based on features such as study hours, attendance, previous scores, and participation.
 
 ---
 
